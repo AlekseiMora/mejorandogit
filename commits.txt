@@ -1,0 +1,35 @@
+commit a24c8588e21dc14c878eeae43500d9f9b4a5ca6a
+Author: Aleksei Mora <aleksei.mora@gmail.com>
+Date:   Thu Mar 26 15:39:40 2015 -0600
+
+    Puse enlace a mi Perfil
+
+commit 5b5e2b45876c69d6b81221c08ecce948da639b6e
+Author: Aleksei Mora <aleksei.mora@gmail.com>
+Date:   Thu Mar 26 15:37:37 2015 -0600
+
+    Puse mi presentación
+
+commit 96871121f1805ff635d345ebd326d030c975f65e
+Author: Aleksei Mora <aleksei.mora@gmail.com>
+Date:   Thu Mar 26 15:34:52 2015 -0600
+
+    Agregué redes sociales
+
+commit 6f9b50b3e03899975bc87cbcc5595c3241b97e30
+Author: Aleksei Mora <aleksei.mora@gmail.com>
+Date:   Thu Mar 26 15:28:06 2015 -0600
+
+    Perfil Web escrito
+
+commit eeb826dfb249f3897060545a62125083b2ee1d7a
+Author: Aleksei Mora <aleksei.mora@gmail.com>
+Date:   Thu Mar 26 15:24:45 2015 -0600
+
+    Subí foto de perfil y mi nombre
+
+commit 1a1defd57038ecc4bfe18aae8f91704b71e549c3
+Author: Aleksei Mora <aleksei.mora@gmail.com>
+Date:   Thu Mar 26 15:20:05 2015 -0600
+
+    Estos son los archivos base de mi portafolio
